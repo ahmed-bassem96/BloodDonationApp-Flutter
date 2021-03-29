@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "540005733260",
+    "firebase_url": "https://blood-9a909.firebaseio.com",
+    "project_id": "blood-9a909",
+    "storage_bucket": "blood-9a909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540005733260:android:c9ea18ad4cc5d6a0a63ca9",
+        "android_client_info": {
+          "package_name": "com.example.qq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540005733260-nejibgc2u5g5591ba84uagm4l90i45a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUNaCkx5nxaT36yqxodup508bBOFVnyqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540005733260-nejibgc2u5g5591ba84uagm4l90i45a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
